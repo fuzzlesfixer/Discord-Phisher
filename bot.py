@@ -3,7 +3,6 @@ from discord.ext import commands
 from rich.console import Console
 from typing import Literal, Optional
 
-from ticket import Confirm, View
 
 cmd = Console()
 
