@@ -4,7 +4,7 @@ import threading, time, sys, subprocess, pkg_resources, os
 
 
 
-required = {'git+https://github.com/Rapptz/asqlite', 'numerize', 'discord.py', 'playwright', 'rich', 'chat-exporter'}
+required = {'git+https://github.com/Rapptz/asqlite', 'numerize', 'discord.py', 'playwright', 'rich'}
 
 value = input('Have you installed the libraries?\n1: Yes\n2: No\n\n')
 
