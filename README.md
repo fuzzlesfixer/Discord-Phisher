@@ -1,5 +1,5 @@
 # Discord-Phisher
-# Must have pip, python and git. vultr is recomended vps
+# Must have pip, python and git. vultr is recomended vps and make sure all bot intents are turned on
 if you have problems open an issue on github
 Auto OTP, 2fa Bypass, Generator, easy to use, Can sell, Can dhook.
 
