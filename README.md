@@ -19,7 +19,8 @@ if you have problems with modules try installing them with git. using pip instal
 
 Errors:
 
-some random ass _greenlet shit: pip install msvc-runtime
+some random ass _greenlet shit: pip install msvc-runtime or
+pip install -U git+https://github.com/python-greenlet/greenlet.git
 
 Discord certificate error:
 
