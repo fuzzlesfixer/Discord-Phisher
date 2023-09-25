@@ -3,11 +3,11 @@
     "GenToken": "",
 
 
-    "Owners": [ownerid1, ownerid 2],
+    "Owners": ["ownerid1", "ownerid2"],
 
 
     "DhookChannelID": 123,
-    "WhitelistedServersIDs": [shopid, 2nd sever],
+    "WhitelistedServersIDs": ["shopid", "2nd sever"],
 
 
     "VerifyRoleID": 123,
