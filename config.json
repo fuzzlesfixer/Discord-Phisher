@@ -1,13 +1,13 @@
 {
-    "BotToken": "",
-    "GenToken": "",
+    "BotToken": "shoptoken",
+    "GenToken": "skyhelper",
 
 
-    "Owners": ["", ""],
+    "Owners": [123, 123],
 
 
     "DhookChannelID": 123,
-    "WhitelistedServersIDs": ["", ""],
+    "WhitelistedServersIDs": [123, 123],
 
 
     "VerifyRoleID": 123,
