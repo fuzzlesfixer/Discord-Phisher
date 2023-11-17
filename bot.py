@@ -3,7 +3,7 @@ from discord.ext import commands
 from rich.console import Console
 from typing import Literal, Optional
 
-
+# i found this in class frim fuzzles
 cmd = Console()
 
 with open("config.json") as r:
